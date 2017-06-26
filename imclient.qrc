@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/IMClient/Resources">
+        <file>GG.png</file>
+    </qresource>
+</RCC>
